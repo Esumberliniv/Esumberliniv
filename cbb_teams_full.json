@@ -1,0 +1,1827 @@
+{
+  "ABILENECHRISTIANWILDCATS": {
+    "espn_id": "2000",
+    "name": "Abilene Christian Wildcats",
+    "url_slug": "abilene-christian-wildcats"
+  },
+  "AIRFORCEFALCONS": {
+    "espn_id": "2005",
+    "name": "Air Force Falcons",
+    "url_slug": "air-force-falcons"
+  },
+  "AKRONZIPS": {
+    "espn_id": "2006",
+    "name": "Akron Zips",
+    "url_slug": "akron-zips"
+  },
+  "ALABAMAAMBULLDOGS": {
+    "espn_id": "2010",
+    "name": "Alabama A&M Bulldogs",
+    "url_slug": "alabama-am-bulldogs"
+  },
+  "ALABAMACRIMSONTIDE": {
+    "espn_id": "333",
+    "name": "Alabama Crimson Tide",
+    "url_slug": "alabama-crimson-tide"
+  },
+  "ALABAMASTATEHORNETS": {
+    "espn_id": "2011",
+    "name": "Alabama State Hornets",
+    "url_slug": "alabama-state-hornets"
+  },
+  "ALCORNSTATEBRAVES": {
+    "espn_id": "2016",
+    "name": "Alcorn State Braves",
+    "url_slug": "alcorn-state-braves"
+  },
+  "AMERICANUNIVERSITYEAGLES": {
+    "espn_id": "44",
+    "name": "American University Eagles",
+    "url_slug": "american-university-eagles"
+  },
+  "APPSTATEMOUNTAINEERS": {
+    "espn_id": "2026",
+    "name": "App State Mountaineers",
+    "url_slug": "app-state-mountaineers"
+  },
+  "ARIZONASTATESUNDEVILS": {
+    "espn_id": "9",
+    "name": "Arizona State Sun Devils",
+    "url_slug": "arizona-state-sun-devils"
+  },
+  "ARIZONAWILDCATS": {
+    "espn_id": "12",
+    "name": "Arizona Wildcats",
+    "url_slug": "arizona-wildcats"
+  },
+  "ARKANSASPINEBLUFFGOLDENLIONS": {
+    "espn_id": "2029",
+    "name": "Arkansas-Pine Bluff Golden Lions",
+    "url_slug": "arkansas-pine-bluff-golden-lions"
+  },
+  "ARKANSASRAZORBACKS": {
+    "espn_id": "8",
+    "name": "Arkansas Razorbacks",
+    "url_slug": "arkansas-razorbacks"
+  },
+  "ARKANSASSTATEREDWOLVES": {
+    "espn_id": "2032",
+    "name": "Arkansas State Red Wolves",
+    "url_slug": "arkansas-state-red-wolves"
+  },
+  "ARMYBLACKKNIGHTS": {
+    "espn_id": "349",
+    "name": "Army Black Knights",
+    "url_slug": "army-black-knights"
+  },
+  "AUBURNTIGERS": {
+    "espn_id": "2",
+    "name": "Auburn Tigers",
+    "url_slug": "auburn-tigers"
+  },
+  "AUSTINPEAYGOVERNORS": {
+    "espn_id": "2046",
+    "name": "Austin Peay Governors",
+    "url_slug": "austin-peay-governors"
+  },
+  "BALLSTATECARDINALS": {
+    "espn_id": "2050",
+    "name": "Ball State Cardinals",
+    "url_slug": "ball-state-cardinals"
+  },
+  "BAYLORBEARS": {
+    "espn_id": "239",
+    "name": "Baylor Bears",
+    "url_slug": "baylor-bears"
+  },
+  "BELLARMINEKNIGHTS": {
+    "espn_id": "91",
+    "name": "Bellarmine Knights",
+    "url_slug": "bellarmine-knights"
+  },
+  "BELMONTBRUINS": {
+    "espn_id": "2057",
+    "name": "Belmont Bruins",
+    "url_slug": "belmont-bruins"
+  },
+  "BETHUNECOOKMANWILDCATS": {
+    "espn_id": "2065",
+    "name": "Bethune-Cookman Wildcats",
+    "url_slug": "bethune-cookman-wildcats"
+  },
+  "BINGHAMTONBEARCATS": {
+    "espn_id": "2066",
+    "name": "Binghamton Bearcats",
+    "url_slug": "binghamton-bearcats"
+  },
+  "BOISESTATEBRONCOS": {
+    "espn_id": "68",
+    "name": "Boise State Broncos",
+    "url_slug": "boise-state-broncos"
+  },
+  "BOSTONCOLLEGEEAGLES": {
+    "espn_id": "103",
+    "name": "Boston College Eagles",
+    "url_slug": "boston-college-eagles"
+  },
+  "BOSTONUNIVERSITYTERRIERS": {
+    "espn_id": "104",
+    "name": "Boston University Terriers",
+    "url_slug": "boston-university-terriers"
+  },
+  "BOWLINGGREENFALCONS": {
+    "espn_id": "189",
+    "name": "Bowling Green Falcons",
+    "url_slug": "bowling-green-falcons"
+  },
+  "BRADLEYBRAVES": {
+    "espn_id": "71",
+    "name": "Bradley Braves",
+    "url_slug": "bradley-braves"
+  },
+  "BROWNBEARS": {
+    "espn_id": "225",
+    "name": "Brown Bears",
+    "url_slug": "brown-bears"
+  },
+  "BRYANTBULLDOGS": {
+    "espn_id": "2803",
+    "name": "Bryant Bulldogs",
+    "url_slug": "bryant-bulldogs"
+  },
+  "BUCKNELLBISON": {
+    "espn_id": "2083",
+    "name": "Bucknell Bison",
+    "url_slug": "bucknell-bison"
+  },
+  "BUFFALOBULLS": {
+    "espn_id": "2084",
+    "name": "Buffalo Bulls",
+    "url_slug": "buffalo-bulls"
+  },
+  "BUTLERBULLDOGS": {
+    "espn_id": "2086",
+    "name": "Butler Bulldogs",
+    "url_slug": "butler-bulldogs"
+  },
+  "BYUCOUGARS": {
+    "espn_id": "252",
+    "name": "BYU Cougars",
+    "url_slug": "byu-cougars"
+  },
+  "CALIFORNIABAPTISTLANCERS": {
+    "espn_id": "2856",
+    "name": "California Baptist Lancers",
+    "url_slug": "california-baptist-lancers"
+  },
+  "CALIFORNIAGOLDENBEARS": {
+    "espn_id": "25",
+    "name": "California Golden Bears",
+    "url_slug": "california-golden-bears"
+  },
+  "CALPOLYMUSTANGS": {
+    "espn_id": "13",
+    "name": "Cal Poly Mustangs",
+    "url_slug": "cal-poly-mustangs"
+  },
+  "CALSTATEBAKERSFIELDROADRUNNERS": {
+    "espn_id": "2934",
+    "name": "Cal State Bakersfield Roadrunners",
+    "url_slug": "cal-state-bakersfield-roadrunners"
+  },
+  "CALSTATEFULLERTONTITANS": {
+    "espn_id": "2239",
+    "name": "Cal State Fullerton Titans",
+    "url_slug": "cal-state-fullerton-titans"
+  },
+  "CALSTATENORTHRIDGEMATADORS": {
+    "espn_id": "2463",
+    "name": "Cal State Northridge Matadors",
+    "url_slug": "cal-state-northridge-matadors"
+  },
+  "CAMPBELLFIGHTINGCAMELS": {
+    "espn_id": "2097",
+    "name": "Campbell Fighting Camels",
+    "url_slug": "campbell-fighting-camels"
+  },
+  "CANISIUSGOLDENGRIFFINS": {
+    "espn_id": "2099",
+    "name": "Canisius Golden Griffins",
+    "url_slug": "canisius-golden-griffins"
+  },
+  "CENTRALARKANSASBEARS": {
+    "espn_id": "2110",
+    "name": "Central Arkansas Bears",
+    "url_slug": "central-arkansas-bears"
+  },
+  "CENTRALCONNECTICUTBLUEDEVILS": {
+    "espn_id": "2115",
+    "name": "Central Connecticut Blue Devils",
+    "url_slug": "central-connecticut-blue-devils"
+  },
+  "CENTRALMICHIGANCHIPPEWAS": {
+    "espn_id": "2117",
+    "name": "Central Michigan Chippewas",
+    "url_slug": "central-michigan-chippewas"
+  },
+  "CHARLESTONCOUGARS": {
+    "espn_id": "232",
+    "name": "Charleston Cougars",
+    "url_slug": "charleston-cougars"
+  },
+  "CHARLESTONSOUTHERNBUCCANEERS": {
+    "espn_id": "2127",
+    "name": "Charleston Southern Buccaneers",
+    "url_slug": "charleston-southern-buccaneers"
+  },
+  "CHARLOTTE49ERS": {
+    "espn_id": "2429",
+    "name": "Charlotte 49ers",
+    "url_slug": "charlotte-49ers"
+  },
+  "CHATTANOOGAMOCS": {
+    "espn_id": "236",
+    "name": "Chattanooga Mocs",
+    "url_slug": "chattanooga-mocs"
+  },
+  "CHICAGOSTATECOUGARS": {
+    "espn_id": "2130",
+    "name": "Chicago State Cougars",
+    "url_slug": "chicago-state-cougars"
+  },
+  "CINCINNATIBEARCATS": {
+    "espn_id": "2132",
+    "name": "Cincinnati Bearcats",
+    "url_slug": "cincinnati-bearcats"
+  },
+  "CLEMSONTIGERS": {
+    "espn_id": "228",
+    "name": "Clemson Tigers",
+    "url_slug": "clemson-tigers"
+  },
+  "CLEVELANDSTATEVIKINGS": {
+    "espn_id": "325",
+    "name": "Cleveland State Vikings",
+    "url_slug": "cleveland-state-vikings"
+  },
+  "COASTALCAROLINACHANTICLEERS": {
+    "espn_id": "324",
+    "name": "Coastal Carolina Chanticleers",
+    "url_slug": "coastal-carolina-chanticleers"
+  },
+  "COLGATERAIDERS": {
+    "espn_id": "2142",
+    "name": "Colgate Raiders",
+    "url_slug": "colgate-raiders"
+  },
+  "COLORADOBUFFALOES": {
+    "espn_id": "38",
+    "name": "Colorado Buffaloes",
+    "url_slug": "colorado-buffaloes"
+  },
+  "COLORADOSTATERAMS": {
+    "espn_id": "36",
+    "name": "Colorado State Rams",
+    "url_slug": "colorado-state-rams"
+  },
+  "COLUMBIALIONS": {
+    "espn_id": "171",
+    "name": "Columbia Lions",
+    "url_slug": "columbia-lions"
+  },
+  "COPPINSTATEEAGLES": {
+    "espn_id": "2154",
+    "name": "Coppin State Eagles",
+    "url_slug": "coppin-state-eagles"
+  },
+  "CORNELLBIGRED": {
+    "espn_id": "172",
+    "name": "Cornell Big Red",
+    "url_slug": "cornell-big-red"
+  },
+  "CREIGHTONBLUEJAYS": {
+    "espn_id": "156",
+    "name": "Creighton Bluejays",
+    "url_slug": "creighton-bluejays"
+  },
+  "DARTMOUTHBIGGREEN": {
+    "espn_id": "159",
+    "name": "Dartmouth Big Green",
+    "url_slug": "dartmouth-big-green"
+  },
+  "DAVIDSONWILDCATS": {
+    "espn_id": "2166",
+    "name": "Davidson Wildcats",
+    "url_slug": "davidson-wildcats"
+  },
+  "DAYTONFLYERS": {
+    "espn_id": "2168",
+    "name": "Dayton Flyers",
+    "url_slug": "dayton-flyers"
+  },
+  "DELAWAREBLUEHENS": {
+    "espn_id": "48",
+    "name": "Delaware Blue Hens",
+    "url_slug": "delaware-blue-hens"
+  },
+  "DELAWARESTATEHORNETS": {
+    "espn_id": "2169",
+    "name": "Delaware State Hornets",
+    "url_slug": "delaware-state-hornets"
+  },
+  "DENVERPIONEERS": {
+    "espn_id": "2172",
+    "name": "Denver Pioneers",
+    "url_slug": "denver-pioneers"
+  },
+  "DEPAULBLUEDEMONS": {
+    "espn_id": "305",
+    "name": "DePaul Blue Demons",
+    "url_slug": "depaul-blue-demons"
+  },
+  "DETROITMERCYTITANS": {
+    "espn_id": "2174",
+    "name": "Detroit Mercy Titans",
+    "url_slug": "detroit-mercy-titans"
+  },
+  "DRAKEBULLDOGS": {
+    "espn_id": "2181",
+    "name": "Drake Bulldogs",
+    "url_slug": "drake-bulldogs"
+  },
+  "DREXELDRAGONS": {
+    "espn_id": "2182",
+    "name": "Drexel Dragons",
+    "url_slug": "drexel-dragons"
+  },
+  "DUKEBLUEDEVILS": {
+    "espn_id": "150",
+    "name": "Duke Blue Devils",
+    "url_slug": "duke-blue-devils"
+  },
+  "DUQUESNEDUKES": {
+    "espn_id": "2184",
+    "name": "Duquesne Dukes",
+    "url_slug": "duquesne-dukes"
+  },
+  "EASTCAROLINAPIRATES": {
+    "espn_id": "151",
+    "name": "East Carolina Pirates",
+    "url_slug": "east-carolina-pirates"
+  },
+  "EASTERNILLINOISPANTHERS": {
+    "espn_id": "2197",
+    "name": "Eastern Illinois Panthers",
+    "url_slug": "eastern-illinois-panthers"
+  },
+  "EASTERNKENTUCKYCOLONELS": {
+    "espn_id": "2198",
+    "name": "Eastern Kentucky Colonels",
+    "url_slug": "eastern-kentucky-colonels"
+  },
+  "EASTERNMICHIGANEAGLES": {
+    "espn_id": "2199",
+    "name": "Eastern Michigan Eagles",
+    "url_slug": "eastern-michigan-eagles"
+  },
+  "EASTERNWASHINGTONEAGLES": {
+    "espn_id": "331",
+    "name": "Eastern Washington Eagles",
+    "url_slug": "eastern-washington-eagles"
+  },
+  "EASTTENNESSEESTATEBUCCANEERS": {
+    "espn_id": "2193",
+    "name": "East Tennessee State Buccaneers",
+    "url_slug": "east-tennessee-state-buccaneers"
+  },
+  "EASTTEXASAMLIONS": {
+    "espn_id": "2837",
+    "name": "East Texas A&M Lions",
+    "url_slug": "east-texas-am-lions"
+  },
+  "ELONPHOENIX": {
+    "espn_id": "2210",
+    "name": "Elon Phoenix",
+    "url_slug": "elon-phoenix"
+  },
+  "EVANSVILLEPURPLEACES": {
+    "espn_id": "339",
+    "name": "Evansville Purple Aces",
+    "url_slug": "evansville-purple-aces"
+  },
+  "FAIRFIELDSTAGS": {
+    "espn_id": "2217",
+    "name": "Fairfield Stags",
+    "url_slug": "fairfield-stags"
+  },
+  "FAIRLEIGHDICKINSONKNIGHTS": {
+    "espn_id": "161",
+    "name": "Fairleigh Dickinson Knights",
+    "url_slug": "fairleigh-dickinson-knights"
+  },
+  "FLORIDAAMRATTLERS": {
+    "espn_id": "50",
+    "name": "Florida A&M Rattlers",
+    "url_slug": "florida-am-rattlers"
+  },
+  "FLORIDAATLANTICOWLS": {
+    "espn_id": "2226",
+    "name": "Florida Atlantic Owls",
+    "url_slug": "florida-atlantic-owls"
+  },
+  "FLORIDAGATORS": {
+    "espn_id": "57",
+    "name": "Florida Gators",
+    "url_slug": "florida-gators"
+  },
+  "FLORIDAGULFCOASTEAGLES": {
+    "espn_id": "526",
+    "name": "Florida Gulf Coast Eagles",
+    "url_slug": "florida-gulf-coast-eagles"
+  },
+  "FLORIDAINTERNATIONALPANTHERS": {
+    "espn_id": "2229",
+    "name": "Florida International Panthers",
+    "url_slug": "florida-international-panthers"
+  },
+  "FLORIDASTATESEMINOLES": {
+    "espn_id": "52",
+    "name": "Florida State Seminoles",
+    "url_slug": "florida-state-seminoles"
+  },
+  "FORDHAMRAMS": {
+    "espn_id": "2230",
+    "name": "Fordham Rams",
+    "url_slug": "fordham-rams"
+  },
+  "FRESNOSTATEBULLDOGS": {
+    "espn_id": "278",
+    "name": "Fresno State Bulldogs",
+    "url_slug": "fresno-state-bulldogs"
+  },
+  "FURMANPALADINS": {
+    "espn_id": "231",
+    "name": "Furman Paladins",
+    "url_slug": "furman-paladins"
+  },
+  "GARDNERWEBBRUNNINBULLDOGS": {
+    "espn_id": "2241",
+    "name": "Gardner-Webb Runnin' Bulldogs",
+    "url_slug": "gardner-webb-runnin-bulldogs"
+  },
+  "GEORGEMASONPATRIOTS": {
+    "espn_id": "2244",
+    "name": "George Mason Patriots",
+    "url_slug": "george-mason-patriots"
+  },
+  "GEORGETOWNHOYAS": {
+    "espn_id": "46",
+    "name": "Georgetown Hoyas",
+    "url_slug": "georgetown-hoyas"
+  },
+  "GEORGEWASHINGTONREVOLUTIONARIES": {
+    "espn_id": "45",
+    "name": "George Washington Revolutionaries",
+    "url_slug": "george-washington-revolutionaries"
+  },
+  "GEORGIABULLDOGS": {
+    "espn_id": "61",
+    "name": "Georgia Bulldogs",
+    "url_slug": "georgia-bulldogs"
+  },
+  "GEORGIASOUTHERNEAGLES": {
+    "espn_id": "290",
+    "name": "Georgia Southern Eagles",
+    "url_slug": "georgia-southern-eagles"
+  },
+  "GEORGIASTATEPANTHERS": {
+    "espn_id": "2247",
+    "name": "Georgia State Panthers",
+    "url_slug": "georgia-state-panthers"
+  },
+  "GEORGIATECHYELLOWJACKETS": {
+    "espn_id": "59",
+    "name": "Georgia Tech Yellow Jackets",
+    "url_slug": "georgia-tech-yellow-jackets"
+  },
+  "GONZAGABULLDOGS": {
+    "espn_id": "2250",
+    "name": "Gonzaga Bulldogs",
+    "url_slug": "gonzaga-bulldogs"
+  },
+  "GRAMBLINGTIGERS": {
+    "espn_id": "2755",
+    "name": "Grambling Tigers",
+    "url_slug": "grambling-tigers"
+  },
+  "GRANDCANYONLOPES": {
+    "espn_id": "2253",
+    "name": "Grand Canyon Lopes",
+    "url_slug": "grand-canyon-lopes"
+  },
+  "GREENBAYPHOENIX": {
+    "espn_id": "2739",
+    "name": "Green Bay Phoenix",
+    "url_slug": "green-bay-phoenix"
+  },
+  "HAMPTONPIRATES": {
+    "espn_id": "2261",
+    "name": "Hampton Pirates",
+    "url_slug": "hampton-pirates"
+  },
+  "HARVARDCRIMSON": {
+    "espn_id": "108",
+    "name": "Harvard Crimson",
+    "url_slug": "harvard-crimson"
+  },
+  "HAWAIIRAINBOWWARRIORS": {
+    "espn_id": "62",
+    "name": "Hawai'i Rainbow Warriors",
+    "url_slug": "hawaii-rainbow-warriors"
+  },
+  "HIGHPOINTPANTHERS": {
+    "espn_id": "2272",
+    "name": "High Point Panthers",
+    "url_slug": "high-point-panthers"
+  },
+  "HOFSTRAPRIDE": {
+    "espn_id": "2275",
+    "name": "Hofstra Pride",
+    "url_slug": "hofstra-pride"
+  },
+  "HOLYCROSSCRUSADERS": {
+    "espn_id": "107",
+    "name": "Holy Cross Crusaders",
+    "url_slug": "holy-cross-crusaders"
+  },
+  "HOUSTONCHRISTIANHUSKIES": {
+    "espn_id": "2277",
+    "name": "Houston Christian Huskies",
+    "url_slug": "houston-christian-huskies"
+  },
+  "HOUSTONCOUGARS": {
+    "espn_id": "248",
+    "name": "Houston Cougars",
+    "url_slug": "houston-cougars"
+  },
+  "HOWARDBISON": {
+    "espn_id": "47",
+    "name": "Howard Bison",
+    "url_slug": "howard-bison"
+  },
+  "IDAHOSTATEBENGALS": {
+    "espn_id": "304",
+    "name": "Idaho State Bengals",
+    "url_slug": "idaho-state-bengals"
+  },
+  "IDAHOVANDALS": {
+    "espn_id": "70",
+    "name": "Idaho Vandals",
+    "url_slug": "idaho-vandals"
+  },
+  "ILLINOISFIGHTINGILLINI": {
+    "espn_id": "356",
+    "name": "Illinois Fighting Illini",
+    "url_slug": "illinois-fighting-illini"
+  },
+  "ILLINOISSTATEREDBIRDS": {
+    "espn_id": "2287",
+    "name": "Illinois State Redbirds",
+    "url_slug": "illinois-state-redbirds"
+  },
+  "INCARNATEWORDCARDINALS": {
+    "espn_id": "2916",
+    "name": "Incarnate Word Cardinals",
+    "url_slug": "incarnate-word-cardinals"
+  },
+  "INDIANAHOOSIERS": {
+    "espn_id": "84",
+    "name": "Indiana Hoosiers",
+    "url_slug": "indiana-hoosiers"
+  },
+  "INDIANASTATESYCAMORES": {
+    "espn_id": "282",
+    "name": "Indiana State Sycamores",
+    "url_slug": "indiana-state-sycamores"
+  },
+  "IONAGAELS": {
+    "espn_id": "314",
+    "name": "Iona Gaels",
+    "url_slug": "iona-gaels"
+  },
+  "IOWAHAWKEYES": {
+    "espn_id": "2294",
+    "name": "Iowa Hawkeyes",
+    "url_slug": "iowa-hawkeyes"
+  },
+  "IOWASTATECYCLONES": {
+    "espn_id": "66",
+    "name": "Iowa State Cyclones",
+    "url_slug": "iowa-state-cyclones"
+  },
+  "IUINDIANAPOLISJAGUARS": {
+    "espn_id": "85",
+    "name": "IU Indianapolis Jaguars",
+    "url_slug": "iu-indianapolis-jaguars"
+  },
+  "JACKSONSTATETIGERS": {
+    "espn_id": "2296",
+    "name": "Jackson State Tigers",
+    "url_slug": "jackson-state-tigers"
+  },
+  "JACKSONVILLEDOLPHINS": {
+    "espn_id": "294",
+    "name": "Jacksonville Dolphins",
+    "url_slug": "jacksonville-dolphins"
+  },
+  "JACKSONVILLESTATEGAMECOCKS": {
+    "espn_id": "55",
+    "name": "Jacksonville State Gamecocks",
+    "url_slug": "jacksonville-state-gamecocks"
+  },
+  "JAMESMADISONDUKES": {
+    "espn_id": "256",
+    "name": "James Madison Dukes",
+    "url_slug": "james-madison-dukes"
+  },
+  "KANSASCITYROOS": {
+    "espn_id": "140",
+    "name": "Kansas City Roos",
+    "url_slug": "kansas-city-roos"
+  },
+  "KANSASJAYHAWKS": {
+    "espn_id": "2305",
+    "name": "Kansas Jayhawks",
+    "url_slug": "kansas-jayhawks"
+  },
+  "KANSASSTATEWILDCATS": {
+    "espn_id": "2306",
+    "name": "Kansas State Wildcats",
+    "url_slug": "kansas-state-wildcats"
+  },
+  "KENNESAWSTATEOWLS": {
+    "espn_id": "338",
+    "name": "Kennesaw State Owls",
+    "url_slug": "kennesaw-state-owls"
+  },
+  "KENTSTATEGOLDENFLASHES": {
+    "espn_id": "2309",
+    "name": "Kent State Golden Flashes",
+    "url_slug": "kent-state-golden-flashes"
+  },
+  "KENTUCKYWILDCATS": {
+    "espn_id": "96",
+    "name": "Kentucky Wildcats",
+    "url_slug": "kentucky-wildcats"
+  },
+  "LAFAYETTELEOPARDS": {
+    "espn_id": "322",
+    "name": "Lafayette Leopards",
+    "url_slug": "lafayette-leopards"
+  },
+  "LAMARCARDINALS": {
+    "espn_id": "2320",
+    "name": "Lamar Cardinals",
+    "url_slug": "lamar-cardinals"
+  },
+  "LASALLEEXPLORERS": {
+    "espn_id": "2325",
+    "name": "La Salle Explorers",
+    "url_slug": "la-salle-explorers"
+  },
+  "LEHIGHMOUNTAINHAWKS": {
+    "espn_id": "2329",
+    "name": "Lehigh Mountain Hawks",
+    "url_slug": "lehigh-mountain-hawks"
+  },
+  "LEMOYNEDOLPHINS": {
+    "espn_id": "2330",
+    "name": "Le Moyne Dolphins",
+    "url_slug": "le-moyne-dolphins"
+  },
+  "LIBERTYFLAMES": {
+    "espn_id": "2335",
+    "name": "Liberty Flames",
+    "url_slug": "liberty-flames"
+  },
+  "LINDENWOODLIONS": {
+    "espn_id": "2815",
+    "name": "Lindenwood Lions",
+    "url_slug": "lindenwood-lions"
+  },
+  "LIPSCOMBBISONS": {
+    "espn_id": "288",
+    "name": "Lipscomb Bisons",
+    "url_slug": "lipscomb-bisons"
+  },
+  "LITTLEROCKTROJANS": {
+    "espn_id": "2031",
+    "name": "Little Rock Trojans",
+    "url_slug": "little-rock-trojans"
+  },
+  "LONGBEACHSTATEBEACH": {
+    "espn_id": "299",
+    "name": "Long Beach State Beach",
+    "url_slug": "long-beach-state-beach"
+  },
+  "LONGISLANDUNIVERSITYSHARKS": {
+    "espn_id": "112358",
+    "name": "Long Island University Sharks",
+    "url_slug": "long-island-university-sharks"
+  },
+  "LONGWOODLANCERS": {
+    "espn_id": "2344",
+    "name": "Longwood Lancers",
+    "url_slug": "longwood-lancers"
+  },
+  "LOUISIANARAGINCAJUNS": {
+    "espn_id": "309",
+    "name": "Louisiana Ragin' Cajuns",
+    "url_slug": "louisiana-ragin-cajuns"
+  },
+  "LOUISIANATECHBULLDOGS": {
+    "espn_id": "2348",
+    "name": "Louisiana Tech Bulldogs",
+    "url_slug": "louisiana-tech-bulldogs"
+  },
+  "LOUISVILLECARDINALS": {
+    "espn_id": "97",
+    "name": "Louisville Cardinals",
+    "url_slug": "louisville-cardinals"
+  },
+  "LOYOLACHICAGORAMBLERS": {
+    "espn_id": "2350",
+    "name": "Loyola Chicago Ramblers",
+    "url_slug": "loyola-chicago-ramblers"
+  },
+  "LOYOLAMARYLANDGREYHOUNDS": {
+    "espn_id": "2352",
+    "name": "Loyola Maryland Greyhounds",
+    "url_slug": "loyola-maryland-greyhounds"
+  },
+  "LOYOLAMARYMOUNTLIONS": {
+    "espn_id": "2351",
+    "name": "Loyola Marymount Lions",
+    "url_slug": "loyola-marymount-lions"
+  },
+  "LSUTIGERS": {
+    "espn_id": "99",
+    "name": "LSU Tigers",
+    "url_slug": "lsu-tigers"
+  },
+  "MAINEBLACKBEARS": {
+    "espn_id": "311",
+    "name": "Maine Black Bears",
+    "url_slug": "maine-black-bears"
+  },
+  "MANHATTANJASPERS": {
+    "espn_id": "2363",
+    "name": "Manhattan Jaspers",
+    "url_slug": "manhattan-jaspers"
+  },
+  "MARISTREDFOXES": {
+    "espn_id": "2368",
+    "name": "Marist Red Foxes",
+    "url_slug": "marist-red-foxes"
+  },
+  "MARQUETTEGOLDENEAGLES": {
+    "espn_id": "269",
+    "name": "Marquette Golden Eagles",
+    "url_slug": "marquette-golden-eagles"
+  },
+  "MARSHALLTHUNDERINGHERD": {
+    "espn_id": "276",
+    "name": "Marshall Thundering Herd",
+    "url_slug": "marshall-thundering-herd"
+  },
+  "MARYLANDEASTERNSHOREHAWKS": {
+    "espn_id": "2379",
+    "name": "Maryland Eastern Shore Hawks",
+    "url_slug": "maryland-eastern-shore-hawks"
+  },
+  "MARYLANDTERRAPINS": {
+    "espn_id": "120",
+    "name": "Maryland Terrapins",
+    "url_slug": "maryland-terrapins"
+  },
+  "MASSACHUSETTSMINUTEMEN": {
+    "espn_id": "113",
+    "name": "Massachusetts Minutemen",
+    "url_slug": "massachusetts-minutemen"
+  },
+  "MCNEESECOWBOYS": {
+    "espn_id": "2377",
+    "name": "McNeese Cowboys",
+    "url_slug": "mcneese-cowboys"
+  },
+  "MEMPHISTIGERS": {
+    "espn_id": "235",
+    "name": "Memphis Tigers",
+    "url_slug": "memphis-tigers"
+  },
+  "MERCERBEARS": {
+    "espn_id": "2382",
+    "name": "Mercer Bears",
+    "url_slug": "mercer-bears"
+  },
+  "MERCYHURSTLAKERS": {
+    "espn_id": "2385",
+    "name": "Mercyhurst Lakers",
+    "url_slug": "mercyhurst-lakers"
+  },
+  "MERRIMACKWARRIORS": {
+    "espn_id": "2771",
+    "name": "Merrimack Warriors",
+    "url_slug": "merrimack-warriors"
+  },
+  "MIAMIHURRICANES": {
+    "espn_id": "2390",
+    "name": "Miami Hurricanes",
+    "url_slug": "miami-hurricanes"
+  },
+  "MIAMIOHREDHAWKS": {
+    "espn_id": "193",
+    "name": "Miami (OH) RedHawks",
+    "url_slug": "miami-oh-redhawks"
+  },
+  "MICHIGANSTATESPARTANS": {
+    "espn_id": "127",
+    "name": "Michigan State Spartans",
+    "url_slug": "michigan-state-spartans"
+  },
+  "MICHIGANWOLVERINES": {
+    "espn_id": "130",
+    "name": "Michigan Wolverines",
+    "url_slug": "michigan-wolverines"
+  },
+  "MIDDLETENNESSEEBLUERAIDERS": {
+    "espn_id": "2393",
+    "name": "Middle Tennessee Blue Raiders",
+    "url_slug": "middle-tennessee-blue-raiders"
+  },
+  "MILWAUKEEPANTHERS": {
+    "espn_id": "270",
+    "name": "Milwaukee Panthers",
+    "url_slug": "milwaukee-panthers"
+  },
+  "MINNESOTAGOLDENGOPHERS": {
+    "espn_id": "135",
+    "name": "Minnesota Golden Gophers",
+    "url_slug": "minnesota-golden-gophers"
+  },
+  "MISSISSIPPISTATEBULLDOGS": {
+    "espn_id": "344",
+    "name": "Mississippi State Bulldogs",
+    "url_slug": "mississippi-state-bulldogs"
+  },
+  "MISSISSIPPIVALLEYSTATEDELTADEVILS": {
+    "espn_id": "2400",
+    "name": "Mississippi Valley State Delta Devils",
+    "url_slug": "mississippi-valley-state-delta-devils"
+  },
+  "MISSOURISTATEBEARS": {
+    "espn_id": "2623",
+    "name": "Missouri State Bears",
+    "url_slug": "missouri-state-bears"
+  },
+  "MISSOURITIGERS": {
+    "espn_id": "142",
+    "name": "Missouri Tigers",
+    "url_slug": "missouri-tigers"
+  },
+  "MONMOUTHHAWKS": {
+    "espn_id": "2405",
+    "name": "Monmouth Hawks",
+    "url_slug": "monmouth-hawks"
+  },
+  "MONTANAGRIZZLIES": {
+    "espn_id": "149",
+    "name": "Montana Grizzlies",
+    "url_slug": "montana-grizzlies"
+  },
+  "MONTANASTATEBOBCATS": {
+    "espn_id": "147",
+    "name": "Montana State Bobcats",
+    "url_slug": "montana-state-bobcats"
+  },
+  "MOREHEADSTATEEAGLES": {
+    "espn_id": "2413",
+    "name": "Morehead State Eagles",
+    "url_slug": "morehead-state-eagles"
+  },
+  "MORGANSTATEBEARS": {
+    "espn_id": "2415",
+    "name": "Morgan State Bears",
+    "url_slug": "morgan-state-bears"
+  },
+  "MOUNTSTMARYSMOUNTAINEERS": {
+    "espn_id": "116",
+    "name": "Mount St. Mary's Mountaineers",
+    "url_slug": "mount-st-marys-mountaineers"
+  },
+  "MURRAYSTATERACERS": {
+    "espn_id": "93",
+    "name": "Murray State Racers",
+    "url_slug": "murray-state-racers"
+  },
+  "NAVYMIDSHIPMEN": {
+    "espn_id": "2426",
+    "name": "Navy Midshipmen",
+    "url_slug": "navy-midshipmen"
+  },
+  "NCSTATEWOLFPACK": {
+    "espn_id": "152",
+    "name": "NC State Wolfpack",
+    "url_slug": "nc-state-wolfpack"
+  },
+  "NEBRASKACORNHUSKERS": {
+    "espn_id": "158",
+    "name": "Nebraska Cornhuskers",
+    "url_slug": "nebraska-cornhuskers"
+  },
+  "NEVADAWOLFPACK": {
+    "espn_id": "2440",
+    "name": "Nevada Wolf Pack",
+    "url_slug": "nevada-wolf-pack"
+  },
+  "NEWHAMPSHIREWILDCATS": {
+    "espn_id": "160",
+    "name": "New Hampshire Wildcats",
+    "url_slug": "new-hampshire-wildcats"
+  },
+  "NEWHAVENCHARGERS": {
+    "espn_id": "2441",
+    "name": "New Haven Chargers",
+    "url_slug": "new-haven-chargers"
+  },
+  "NEWMEXICOLOBOS": {
+    "espn_id": "167",
+    "name": "New Mexico Lobos",
+    "url_slug": "new-mexico-lobos"
+  },
+  "NEWMEXICOSTATEAGGIES": {
+    "espn_id": "166",
+    "name": "New Mexico State Aggies",
+    "url_slug": "new-mexico-state-aggies"
+  },
+  "NEWORLEANSPRIVATEERS": {
+    "espn_id": "2443",
+    "name": "New Orleans Privateers",
+    "url_slug": "new-orleans-privateers"
+  },
+  "NIAGARAPURPLEEAGLES": {
+    "espn_id": "315",
+    "name": "Niagara Purple Eagles",
+    "url_slug": "niagara-purple-eagles"
+  },
+  "NICHOLLSCOLONELS": {
+    "espn_id": "2447",
+    "name": "Nicholls Colonels",
+    "url_slug": "nicholls-colonels"
+  },
+  "NJITHIGHLANDERS": {
+    "espn_id": "2885",
+    "name": "NJIT Highlanders",
+    "url_slug": "njit-highlanders"
+  },
+  "NORFOLKSTATESPARTANS": {
+    "espn_id": "2450",
+    "name": "Norfolk State Spartans",
+    "url_slug": "norfolk-state-spartans"
+  },
+  "NORTHALABAMALIONS": {
+    "espn_id": "2453",
+    "name": "North Alabama Lions",
+    "url_slug": "north-alabama-lions"
+  },
+  "NORTHCAROLINAATAGGIES": {
+    "espn_id": "2448",
+    "name": "North Carolina A&T Aggies",
+    "url_slug": "north-carolina-at-aggies"
+  },
+  "NORTHCAROLINACENTRALEAGLES": {
+    "espn_id": "2428",
+    "name": "North Carolina Central Eagles",
+    "url_slug": "north-carolina-central-eagles"
+  },
+  "NORTHCAROLINATARHEELS": {
+    "espn_id": "153",
+    "name": "North Carolina Tar Heels",
+    "url_slug": "north-carolina-tar-heels"
+  },
+  "NORTHDAKOTAFIGHTINGHAWKS": {
+    "espn_id": "155",
+    "name": "North Dakota Fighting Hawks",
+    "url_slug": "north-dakota-fighting-hawks"
+  },
+  "NORTHDAKOTASTATEBISON": {
+    "espn_id": "2449",
+    "name": "North Dakota State Bison",
+    "url_slug": "north-dakota-state-bison"
+  },
+  "NORTHEASTERNHUSKIES": {
+    "espn_id": "111",
+    "name": "Northeastern Huskies",
+    "url_slug": "northeastern-huskies"
+  },
+  "NORTHERNARIZONALUMBERJACKS": {
+    "espn_id": "2464",
+    "name": "Northern Arizona Lumberjacks",
+    "url_slug": "northern-arizona-lumberjacks"
+  },
+  "NORTHERNCOLORADOBEARS": {
+    "espn_id": "2458",
+    "name": "Northern Colorado Bears",
+    "url_slug": "northern-colorado-bears"
+  },
+  "NORTHERNILLINOISHUSKIES": {
+    "espn_id": "2459",
+    "name": "Northern Illinois Huskies",
+    "url_slug": "northern-illinois-huskies"
+  },
+  "NORTHERNIOWAPANTHERS": {
+    "espn_id": "2460",
+    "name": "Northern Iowa Panthers",
+    "url_slug": "northern-iowa-panthers"
+  },
+  "NORTHERNKENTUCKYNORSE": {
+    "espn_id": "94",
+    "name": "Northern Kentucky Norse",
+    "url_slug": "northern-kentucky-norse"
+  },
+  "NORTHFLORIDAOSPREYS": {
+    "espn_id": "2454",
+    "name": "North Florida Ospreys",
+    "url_slug": "north-florida-ospreys"
+  },
+  "NORTHTEXASMEANGREEN": {
+    "espn_id": "249",
+    "name": "North Texas Mean Green",
+    "url_slug": "north-texas-mean-green"
+  },
+  "NORTHWESTERNSTATEDEMONS": {
+    "espn_id": "2466",
+    "name": "Northwestern State Demons",
+    "url_slug": "northwestern-state-demons"
+  },
+  "NORTHWESTERNWILDCATS": {
+    "espn_id": "77",
+    "name": "Northwestern Wildcats",
+    "url_slug": "northwestern-wildcats"
+  },
+  "NOTREDAMEFIGHTINGIRISH": {
+    "espn_id": "87",
+    "name": "Notre Dame Fighting Irish",
+    "url_slug": "notre-dame-fighting-irish"
+  },
+  "OAKLANDGOLDENGRIZZLIES": {
+    "espn_id": "2473",
+    "name": "Oakland Golden Grizzlies",
+    "url_slug": "oakland-golden-grizzlies"
+  },
+  "OHIOBOBCATS": {
+    "espn_id": "195",
+    "name": "Ohio Bobcats",
+    "url_slug": "ohio-bobcats"
+  },
+  "OHIOSTATEBUCKEYES": {
+    "espn_id": "194",
+    "name": "Ohio State Buckeyes",
+    "url_slug": "ohio-state-buckeyes"
+  },
+  "OKLAHOMASOONERS": {
+    "espn_id": "201",
+    "name": "Oklahoma Sooners",
+    "url_slug": "oklahoma-sooners"
+  },
+  "OKLAHOMASTATECOWBOYS": {
+    "espn_id": "197",
+    "name": "Oklahoma State Cowboys",
+    "url_slug": "oklahoma-state-cowboys"
+  },
+  "OLDDOMINIONMONARCHS": {
+    "espn_id": "295",
+    "name": "Old Dominion Monarchs",
+    "url_slug": "old-dominion-monarchs"
+  },
+  "OLEMISSREBELS": {
+    "espn_id": "145",
+    "name": "Ole Miss Rebels",
+    "url_slug": "ole-miss-rebels"
+  },
+  "OMAHAMAVERICKS": {
+    "espn_id": "2437",
+    "name": "Omaha Mavericks",
+    "url_slug": "omaha-mavericks"
+  },
+  "ORALROBERTSGOLDENEAGLES": {
+    "espn_id": "198",
+    "name": "Oral Roberts Golden Eagles",
+    "url_slug": "oral-roberts-golden-eagles"
+  },
+  "OREGONDUCKS": {
+    "espn_id": "2483",
+    "name": "Oregon Ducks",
+    "url_slug": "oregon-ducks"
+  },
+  "OREGONSTATEBEAVERS": {
+    "espn_id": "204",
+    "name": "Oregon State Beavers",
+    "url_slug": "oregon-state-beavers"
+  },
+  "PACIFICTIGERS": {
+    "espn_id": "279",
+    "name": "Pacific Tigers",
+    "url_slug": "pacific-tigers"
+  },
+  "PENNSTATENITTANYLIONS": {
+    "espn_id": "213",
+    "name": "Penn State Nittany Lions",
+    "url_slug": "penn-state-nittany-lions"
+  },
+  "PENNSYLVANIAQUAKERS": {
+    "espn_id": "219",
+    "name": "Pennsylvania Quakers",
+    "url_slug": "pennsylvania-quakers"
+  },
+  "PEPPERDINEWAVES": {
+    "espn_id": "2492",
+    "name": "Pepperdine Waves",
+    "url_slug": "pepperdine-waves"
+  },
+  "PITTSBURGHPANTHERS": {
+    "espn_id": "221",
+    "name": "Pittsburgh Panthers",
+    "url_slug": "pittsburgh-panthers"
+  },
+  "PORTLANDPILOTS": {
+    "espn_id": "2501",
+    "name": "Portland Pilots",
+    "url_slug": "portland-pilots"
+  },
+  "PORTLANDSTATEVIKINGS": {
+    "espn_id": "2502",
+    "name": "Portland State Vikings",
+    "url_slug": "portland-state-vikings"
+  },
+  "PRAIRIEVIEWAMPANTHERS": {
+    "espn_id": "2504",
+    "name": "Prairie View A&M Panthers",
+    "url_slug": "prairie-view-am-panthers"
+  },
+  "PRESBYTERIANBLUEHOSE": {
+    "espn_id": "2506",
+    "name": "Presbyterian Blue Hose",
+    "url_slug": "presbyterian-blue-hose"
+  },
+  "PRINCETONTIGERS": {
+    "espn_id": "163",
+    "name": "Princeton Tigers",
+    "url_slug": "princeton-tigers"
+  },
+  "PROVIDENCEFRIARS": {
+    "espn_id": "2507",
+    "name": "Providence Friars",
+    "url_slug": "providence-friars"
+  },
+  "PURDUEBOILERMAKERS": {
+    "espn_id": "2509",
+    "name": "Purdue Boilermakers",
+    "url_slug": "purdue-boilermakers"
+  },
+  "PURDUEFORTWAYNEMASTODONS": {
+    "espn_id": "2870",
+    "name": "Purdue Fort Wayne Mastodons",
+    "url_slug": "purdue-fort-wayne-mastodons"
+  },
+  "QUEENSUNIVERSITYROYALS": {
+    "espn_id": "2511",
+    "name": "Queens University Royals",
+    "url_slug": "queens-university-royals"
+  },
+  "QUINNIPIACBOBCATS": {
+    "espn_id": "2514",
+    "name": "Quinnipiac Bobcats",
+    "url_slug": "quinnipiac-bobcats"
+  },
+  "RADFORDHIGHLANDERS": {
+    "espn_id": "2515",
+    "name": "Radford Highlanders",
+    "url_slug": "radford-highlanders"
+  },
+  "RHODEISLANDRAMS": {
+    "espn_id": "227",
+    "name": "Rhode Island Rams",
+    "url_slug": "rhode-island-rams"
+  },
+  "RICEOWLS": {
+    "espn_id": "242",
+    "name": "Rice Owls",
+    "url_slug": "rice-owls"
+  },
+  "RICHMONDSPIDERS": {
+    "espn_id": "257",
+    "name": "Richmond Spiders",
+    "url_slug": "richmond-spiders"
+  },
+  "RIDERBRONCS": {
+    "espn_id": "2520",
+    "name": "Rider Broncs",
+    "url_slug": "rider-broncs"
+  },
+  "ROBERTMORRISCOLONIALS": {
+    "espn_id": "2523",
+    "name": "Robert Morris Colonials",
+    "url_slug": "robert-morris-colonials"
+  },
+  "RUTGERSSCARLETKNIGHTS": {
+    "espn_id": "164",
+    "name": "Rutgers Scarlet Knights",
+    "url_slug": "rutgers-scarlet-knights"
+  },
+  "SACRAMENTOSTATEHORNETS": {
+    "espn_id": "16",
+    "name": "Sacramento State Hornets",
+    "url_slug": "sacramento-state-hornets"
+  },
+  "SACREDHEARTPIONEERS": {
+    "espn_id": "2529",
+    "name": "Sacred Heart Pioneers",
+    "url_slug": "sacred-heart-pioneers"
+  },
+  "SAINTFRANCISREDFLASH": {
+    "espn_id": "2598",
+    "name": "Saint Francis Red Flash",
+    "url_slug": "saint-francis-red-flash"
+  },
+  "SAINTJOSEPHSHAWKS": {
+    "espn_id": "2603",
+    "name": "Saint Joseph's Hawks",
+    "url_slug": "saint-josephs-hawks"
+  },
+  "SAINTLOUISBILLIKENS": {
+    "espn_id": "139",
+    "name": "Saint Louis Billikens",
+    "url_slug": "saint-louis-billikens"
+  },
+  "SAINTMARYSGAELS": {
+    "espn_id": "2608",
+    "name": "Saint Mary's Gaels",
+    "url_slug": "saint-marys-gaels"
+  },
+  "SAINTPETERSPEACOCKS": {
+    "espn_id": "2612",
+    "name": "Saint Peter's Peacocks",
+    "url_slug": "saint-peters-peacocks"
+  },
+  "SAMFORDBULLDOGS": {
+    "espn_id": "2535",
+    "name": "Samford Bulldogs",
+    "url_slug": "samford-bulldogs"
+  },
+  "SAMHOUSTONBEARKATS": {
+    "espn_id": "2534",
+    "name": "Sam Houston Bearkats",
+    "url_slug": "sam-houston-bearkats"
+  },
+  "SANDIEGOSTATEAZTECS": {
+    "espn_id": "21",
+    "name": "San Diego State Aztecs",
+    "url_slug": "san-diego-state-aztecs"
+  },
+  "SANDIEGOTOREROS": {
+    "espn_id": "301",
+    "name": "San Diego Toreros",
+    "url_slug": "san-diego-toreros"
+  },
+  "SANFRANCISCODONS": {
+    "espn_id": "2539",
+    "name": "San Francisco Dons",
+    "url_slug": "san-francisco-dons"
+  },
+  "SANJOSESTATESPARTANS": {
+    "espn_id": "23",
+    "name": "San Jos\u00e9 State Spartans",
+    "url_slug": "san-jose-state-spartans"
+  },
+  "SANTACLARABRONCOS": {
+    "espn_id": "2541",
+    "name": "Santa Clara Broncos",
+    "url_slug": "santa-clara-broncos"
+  },
+  "SEATTLEUREDHAWKS": {
+    "espn_id": "2547",
+    "name": "Seattle U Redhawks",
+    "url_slug": "seattle-u-redhawks"
+  },
+  "SELOUISIANALIONS": {
+    "espn_id": "2545",
+    "name": "SE Louisiana Lions",
+    "url_slug": "se-louisiana-lions"
+  },
+  "SETONHALLPIRATES": {
+    "espn_id": "2550",
+    "name": "Seton Hall Pirates",
+    "url_slug": "seton-hall-pirates"
+  },
+  "SIENASAINTS": {
+    "espn_id": "2561",
+    "name": "Siena Saints",
+    "url_slug": "siena-saints"
+  },
+  "SIUEDWARDSVILLECOUGARS": {
+    "espn_id": "2565",
+    "name": "SIU Edwardsville Cougars",
+    "url_slug": "siu-edwardsville-cougars"
+  },
+  "SMUMUSTANGS": {
+    "espn_id": "2567",
+    "name": "SMU Mustangs",
+    "url_slug": "smu-mustangs"
+  },
+  "SOUTHALABAMAJAGUARS": {
+    "espn_id": "6",
+    "name": "South Alabama Jaguars",
+    "url_slug": "south-alabama-jaguars"
+  },
+  "SOUTHCAROLINAGAMECOCKS": {
+    "espn_id": "2579",
+    "name": "South Carolina Gamecocks",
+    "url_slug": "south-carolina-gamecocks"
+  },
+  "SOUTHCAROLINASTATEBULLDOGS": {
+    "espn_id": "2569",
+    "name": "South Carolina State Bulldogs",
+    "url_slug": "south-carolina-state-bulldogs"
+  },
+  "SOUTHCAROLINAUPSTATESPARTANS": {
+    "espn_id": "2908",
+    "name": "South Carolina Upstate Spartans",
+    "url_slug": "south-carolina-upstate-spartans"
+  },
+  "SOUTHDAKOTACOYOTES": {
+    "espn_id": "233",
+    "name": "South Dakota Coyotes",
+    "url_slug": "south-dakota-coyotes"
+  },
+  "SOUTHDAKOTASTATEJACKRABBITS": {
+    "espn_id": "2571",
+    "name": "South Dakota State Jackrabbits",
+    "url_slug": "south-dakota-state-jackrabbits"
+  },
+  "SOUTHEASTMISSOURISTATEREDHAWKS": {
+    "espn_id": "2546",
+    "name": "Southeast Missouri State Redhawks",
+    "url_slug": "southeast-missouri-state-redhawks"
+  },
+  "SOUTHERNILLINOISSALUKIS": {
+    "espn_id": "79",
+    "name": "Southern Illinois Salukis",
+    "url_slug": "southern-illinois-salukis"
+  },
+  "SOUTHERNINDIANASCREAMINGEAGLES": {
+    "espn_id": "88",
+    "name": "Southern Indiana Screaming Eagles",
+    "url_slug": "southern-indiana-screaming-eagles"
+  },
+  "SOUTHERNJAGUARS": {
+    "espn_id": "2582",
+    "name": "Southern Jaguars",
+    "url_slug": "southern-jaguars"
+  },
+  "SOUTHERNMISSGOLDENEAGLES": {
+    "espn_id": "2572",
+    "name": "Southern Miss Golden Eagles",
+    "url_slug": "southern-miss-golden-eagles"
+  },
+  "SOUTHERNUTAHTHUNDERBIRDS": {
+    "espn_id": "253",
+    "name": "Southern Utah Thunderbirds",
+    "url_slug": "southern-utah-thunderbirds"
+  },
+  "SOUTHFLORIDABULLS": {
+    "espn_id": "58",
+    "name": "South Florida Bulls",
+    "url_slug": "south-florida-bulls"
+  },
+  "STANFORDCARDINAL": {
+    "espn_id": "24",
+    "name": "Stanford Cardinal",
+    "url_slug": "stanford-cardinal"
+  },
+  "STBONAVENTUREBONNIES": {
+    "espn_id": "179",
+    "name": "St. Bonaventure Bonnies",
+    "url_slug": "st-bonaventure-bonnies"
+  },
+  "STEPHENFAUSTINLUMBERJACKS": {
+    "espn_id": "2617",
+    "name": "Stephen F. Austin Lumberjacks",
+    "url_slug": "stephen-f-austin-lumberjacks"
+  },
+  "STETSONHATTERS": {
+    "espn_id": "56",
+    "name": "Stetson Hatters",
+    "url_slug": "stetson-hatters"
+  },
+  "STJOHNSREDSTORM": {
+    "espn_id": "2599",
+    "name": "St. John's Red Storm",
+    "url_slug": "st-johns-red-storm"
+  },
+  "STONEHILLSKYHAWKS": {
+    "espn_id": "284",
+    "name": "Stonehill Skyhawks",
+    "url_slug": "stonehill-skyhawks"
+  },
+  "STONYBROOKSEAWOLVES": {
+    "espn_id": "2619",
+    "name": "Stony Brook Seawolves",
+    "url_slug": "stony-brook-seawolves"
+  },
+  "STTHOMASMINNESOTATOMMIES": {
+    "espn_id": "2900",
+    "name": "St. Thomas-Minnesota Tommies",
+    "url_slug": "st-thomas-minnesota-tommies"
+  },
+  "SYRACUSEORANGE": {
+    "espn_id": "183",
+    "name": "Syracuse Orange",
+    "url_slug": "syracuse-orange"
+  },
+  "TARLETONSTATETEXANS": {
+    "espn_id": "2627",
+    "name": "Tarleton State Texans",
+    "url_slug": "tarleton-state-texans"
+  },
+  "TCUHORNEDFROGS": {
+    "espn_id": "2628",
+    "name": "TCU Horned Frogs",
+    "url_slug": "tcu-horned-frogs"
+  },
+  "TEMPLEOWLS": {
+    "espn_id": "218",
+    "name": "Temple Owls",
+    "url_slug": "temple-owls"
+  },
+  "TENNESSEESTATETIGERS": {
+    "espn_id": "2634",
+    "name": "Tennessee State Tigers",
+    "url_slug": "tennessee-state-tigers"
+  },
+  "TENNESSEETECHGOLDENEAGLES": {
+    "espn_id": "2635",
+    "name": "Tennessee Tech Golden Eagles",
+    "url_slug": "tennessee-tech-golden-eagles"
+  },
+  "TENNESSEEVOLUNTEERS": {
+    "espn_id": "2633",
+    "name": "Tennessee Volunteers",
+    "url_slug": "tennessee-volunteers"
+  },
+  "TEXASAMAGGIES": {
+    "espn_id": "245",
+    "name": "Texas A&M Aggies",
+    "url_slug": "texas-am-aggies"
+  },
+  "TEXASAMCORPUSCHRISTIISLANDERS": {
+    "espn_id": "357",
+    "name": "Texas A&M-Corpus Christi Islanders",
+    "url_slug": "texas-am-corpus-christi-islanders"
+  },
+  "TEXASLONGHORNS": {
+    "espn_id": "251",
+    "name": "Texas Longhorns",
+    "url_slug": "texas-longhorns"
+  },
+  "TEXASSOUTHERNTIGERS": {
+    "espn_id": "2640",
+    "name": "Texas Southern Tigers",
+    "url_slug": "texas-southern-tigers"
+  },
+  "TEXASSTATEBOBCATS": {
+    "espn_id": "326",
+    "name": "Texas State Bobcats",
+    "url_slug": "texas-state-bobcats"
+  },
+  "TEXASTECHREDRAIDERS": {
+    "espn_id": "2641",
+    "name": "Texas Tech Red Raiders",
+    "url_slug": "texas-tech-red-raiders"
+  },
+  "THECITADELBULLDOGS": {
+    "espn_id": "2643",
+    "name": "The Citadel Bulldogs",
+    "url_slug": "the-citadel-bulldogs"
+  },
+  "TOLEDOROCKETS": {
+    "espn_id": "2649",
+    "name": "Toledo Rockets",
+    "url_slug": "toledo-rockets"
+  },
+  "TOWSONTIGERS": {
+    "espn_id": "119",
+    "name": "Towson Tigers",
+    "url_slug": "towson-tigers"
+  },
+  "TROYTROJANS": {
+    "espn_id": "2653",
+    "name": "Troy Trojans",
+    "url_slug": "troy-trojans"
+  },
+  "TULANEGREENWAVE": {
+    "espn_id": "2655",
+    "name": "Tulane Green Wave",
+    "url_slug": "tulane-green-wave"
+  },
+  "TULSAGOLDENHURRICANE": {
+    "espn_id": "202",
+    "name": "Tulsa Golden Hurricane",
+    "url_slug": "tulsa-golden-hurricane"
+  },
+  "UABBLAZERS": {
+    "espn_id": "5",
+    "name": "UAB Blazers",
+    "url_slug": "uab-blazers"
+  },
+  "UALBANYGREATDANES": {
+    "espn_id": "399",
+    "name": "UAlbany Great Danes",
+    "url_slug": "ualbany-great-danes"
+  },
+  "UCDAVISAGGIES": {
+    "espn_id": "302",
+    "name": "UC Davis Aggies",
+    "url_slug": "uc-davis-aggies"
+  },
+  "UCFKNIGHTS": {
+    "espn_id": "2116",
+    "name": "UCF Knights",
+    "url_slug": "ucf-knights"
+  },
+  "UCIRVINEANTEATERS": {
+    "espn_id": "300",
+    "name": "UC Irvine Anteaters",
+    "url_slug": "uc-irvine-anteaters"
+  },
+  "UCLABRUINS": {
+    "espn_id": "26",
+    "name": "UCLA Bruins",
+    "url_slug": "ucla-bruins"
+  },
+  "UCONNHUSKIES": {
+    "espn_id": "41",
+    "name": "UConn Huskies",
+    "url_slug": "uconn-huskies"
+  },
+  "UCRIVERSIDEHIGHLANDERS": {
+    "espn_id": "27",
+    "name": "UC Riverside Highlanders",
+    "url_slug": "uc-riverside-highlanders"
+  },
+  "UCSANDIEGOTRITONS": {
+    "espn_id": "28",
+    "name": "UC San Diego Tritons",
+    "url_slug": "uc-san-diego-tritons"
+  },
+  "UCSANTABARBARAGAUCHOS": {
+    "espn_id": "2540",
+    "name": "UC Santa Barbara Gauchos",
+    "url_slug": "uc-santa-barbara-gauchos"
+  },
+  "UICFLAMES": {
+    "espn_id": "82",
+    "name": "UIC Flames",
+    "url_slug": "uic-flames"
+  },
+  "ULMONROEWARHAWKS": {
+    "espn_id": "2433",
+    "name": "UL Monroe Warhawks",
+    "url_slug": "ul-monroe-warhawks"
+  },
+  "UMASSLOWELLRIVERHAWKS": {
+    "espn_id": "2349",
+    "name": "UMass Lowell River Hawks",
+    "url_slug": "umass-lowell-river-hawks"
+  },
+  "UMBCRETRIEVERS": {
+    "espn_id": "2378",
+    "name": "UMBC Retrievers",
+    "url_slug": "umbc-retrievers"
+  },
+  "UNCASHEVILLEBULLDOGS": {
+    "espn_id": "2427",
+    "name": "UNC Asheville Bulldogs",
+    "url_slug": "unc-asheville-bulldogs"
+  },
+  "UNCGREENSBOROSPARTANS": {
+    "espn_id": "2430",
+    "name": "UNC Greensboro Spartans",
+    "url_slug": "unc-greensboro-spartans"
+  },
+  "UNCWILMINGTONSEAHAWKS": {
+    "espn_id": "350",
+    "name": "UNC Wilmington Seahawks",
+    "url_slug": "unc-wilmington-seahawks"
+  },
+  "UNLVREBELS": {
+    "espn_id": "2439",
+    "name": "UNLV Rebels",
+    "url_slug": "unlv-rebels"
+  },
+  "USCTROJANS": {
+    "espn_id": "30",
+    "name": "USC Trojans",
+    "url_slug": "usc-trojans"
+  },
+  "UTAHSTATEAGGIES": {
+    "espn_id": "328",
+    "name": "Utah State Aggies",
+    "url_slug": "utah-state-aggies"
+  },
+  "UTAHTECHTRAILBLAZERS": {
+    "espn_id": "3101",
+    "name": "Utah Tech Trailblazers",
+    "url_slug": "utah-tech-trailblazers"
+  },
+  "UTAHUTES": {
+    "espn_id": "254",
+    "name": "Utah Utes",
+    "url_slug": "utah-utes"
+  },
+  "UTAHVALLEYWOLVERINES": {
+    "espn_id": "3084",
+    "name": "Utah Valley Wolverines",
+    "url_slug": "utah-valley-wolverines"
+  },
+  "UTARLINGTONMAVERICKS": {
+    "espn_id": "250",
+    "name": "UT Arlington Mavericks",
+    "url_slug": "ut-arlington-mavericks"
+  },
+  "UTEPMINERS": {
+    "espn_id": "2638",
+    "name": "UTEP Miners",
+    "url_slug": "utep-miners"
+  },
+  "UTMARTINSKYHAWKS": {
+    "espn_id": "2630",
+    "name": "UT Martin Skyhawks",
+    "url_slug": "ut-martin-skyhawks"
+  },
+  "UTRIOGRANDEVALLEYVAQUEROS": {
+    "espn_id": "292",
+    "name": "UT Rio Grande Valley Vaqueros",
+    "url_slug": "ut-rio-grande-valley-vaqueros"
+  },
+  "UTSAROADRUNNERS": {
+    "espn_id": "2636",
+    "name": "UTSA Roadrunners",
+    "url_slug": "utsa-roadrunners"
+  },
+  "VALPARAISOBEACONS": {
+    "espn_id": "2674",
+    "name": "Valparaiso Beacons",
+    "url_slug": "valparaiso-beacons"
+  },
+  "VANDERBILTCOMMODORES": {
+    "espn_id": "238",
+    "name": "Vanderbilt Commodores",
+    "url_slug": "vanderbilt-commodores"
+  },
+  "VCURAMS": {
+    "espn_id": "2670",
+    "name": "VCU Rams",
+    "url_slug": "vcu-rams"
+  },
+  "VERMONTCATAMOUNTS": {
+    "espn_id": "261",
+    "name": "Vermont Catamounts",
+    "url_slug": "vermont-catamounts"
+  },
+  "VILLANOVAWILDCATS": {
+    "espn_id": "222",
+    "name": "Villanova Wildcats",
+    "url_slug": "villanova-wildcats"
+  },
+  "VIRGINIACAVALIERS": {
+    "espn_id": "258",
+    "name": "Virginia Cavaliers",
+    "url_slug": "virginia-cavaliers"
+  },
+  "VIRGINIATECHHOKIES": {
+    "espn_id": "259",
+    "name": "Virginia Tech Hokies",
+    "url_slug": "virginia-tech-hokies"
+  },
+  "VMIKEYDETS": {
+    "espn_id": "2678",
+    "name": "VMI Keydets",
+    "url_slug": "vmi-keydets"
+  },
+  "WAGNERSEAHAWKS": {
+    "espn_id": "2681",
+    "name": "Wagner Seahawks",
+    "url_slug": "wagner-seahawks"
+  },
+  "WAKEFORESTDEMONDEACONS": {
+    "espn_id": "154",
+    "name": "Wake Forest Demon Deacons",
+    "url_slug": "wake-forest-demon-deacons"
+  },
+  "WASHINGTONHUSKIES": {
+    "espn_id": "264",
+    "name": "Washington Huskies",
+    "url_slug": "washington-huskies"
+  },
+  "WASHINGTONSTATECOUGARS": {
+    "espn_id": "265",
+    "name": "Washington State Cougars",
+    "url_slug": "washington-state-cougars"
+  },
+  "WEBERSTATEWILDCATS": {
+    "espn_id": "2692",
+    "name": "Weber State Wildcats",
+    "url_slug": "weber-state-wildcats"
+  },
+  "WESTERNCAROLINACATAMOUNTS": {
+    "espn_id": "2717",
+    "name": "Western Carolina Catamounts",
+    "url_slug": "western-carolina-catamounts"
+  },
+  "WESTERNILLINOISLEATHERNECKS": {
+    "espn_id": "2710",
+    "name": "Western Illinois Leathernecks",
+    "url_slug": "western-illinois-leathernecks"
+  },
+  "WESTERNKENTUCKYHILLTOPPERS": {
+    "espn_id": "98",
+    "name": "Western Kentucky Hilltoppers",
+    "url_slug": "western-kentucky-hilltoppers"
+  },
+  "WESTERNMICHIGANBRONCOS": {
+    "espn_id": "2711",
+    "name": "Western Michigan Broncos",
+    "url_slug": "western-michigan-broncos"
+  },
+  "WESTGEORGIAWOLVES": {
+    "espn_id": "2698",
+    "name": "West Georgia Wolves",
+    "url_slug": "west-georgia-wolves"
+  },
+  "WESTVIRGINIAMOUNTAINEERS": {
+    "espn_id": "277",
+    "name": "West Virginia Mountaineers",
+    "url_slug": "west-virginia-mountaineers"
+  },
+  "WICHITASTATESHOCKERS": {
+    "espn_id": "2724",
+    "name": "Wichita State Shockers",
+    "url_slug": "wichita-state-shockers"
+  },
+  "WILLIAMMARYTRIBE": {
+    "espn_id": "2729",
+    "name": "William & Mary Tribe",
+    "url_slug": "william-mary-tribe"
+  },
+  "WINTHROPEAGLES": {
+    "espn_id": "2737",
+    "name": "Winthrop Eagles",
+    "url_slug": "winthrop-eagles"
+  },
+  "WISCONSINBADGERS": {
+    "espn_id": "275",
+    "name": "Wisconsin Badgers",
+    "url_slug": "wisconsin-badgers"
+  },
+  "WOFFORDTERRIERS": {
+    "espn_id": "2747",
+    "name": "Wofford Terriers",
+    "url_slug": "wofford-terriers"
+  },
+  "WRIGHTSTATERAIDERS": {
+    "espn_id": "2750",
+    "name": "Wright State Raiders",
+    "url_slug": "wright-state-raiders"
+  },
+  "WYOMINGCOWBOYS": {
+    "espn_id": "2751",
+    "name": "Wyoming Cowboys",
+    "url_slug": "wyoming-cowboys"
+  },
+  "XAVIERMUSKETEERS": {
+    "espn_id": "2752",
+    "name": "Xavier Musketeers",
+    "url_slug": "xavier-musketeers"
+  },
+  "YALEBULLDOGS": {
+    "espn_id": "43",
+    "name": "Yale Bulldogs",
+    "url_slug": "yale-bulldogs"
+  },
+  "YOUNGSTOWNSTATEPENGUINS": {
+    "espn_id": "2754",
+    "name": "Youngstown State Penguins",
+    "url_slug": "youngstown-state-penguins"
+  }
+}
