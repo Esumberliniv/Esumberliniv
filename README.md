@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Esumberliniv
 - 👀 I’m interested in becoming a UI/UX designer or a software engineer
 - 🌱 I’m currently learning more Python
-- 💞️ I’m looking to collaborate on creating an app
+- I’m looking to collaborate on creating an app
 - 📫 How to reach me email(emerydsumberlin@yahoo.com)
 
 <!---
